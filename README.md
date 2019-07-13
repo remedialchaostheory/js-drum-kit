@@ -2,4 +2,4 @@
 
 Plays a different sound for each key pressed.
 
-![](https://s3.gifyu.com/images/js-drum-kit.gif)
+![js-drum-kita425414e7273075c.gif](https://s3.gifyu.com/images/js-drum-kita425414e7273075c.gif)
